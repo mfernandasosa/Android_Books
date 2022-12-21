@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "313177760249",
+    "project_id": "shopimtwo",
+    "storage_bucket": "shopimtwo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313177760249:android:c68efda600b75c9b761d28",
+        "android_client_info": {
+          "package_name": "com.example.shoptwo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313177760249-s3k0c0f3g20iv90mhkohap5cofv6uoh1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB7_RlquOYe2o0czMLheGONF7cje3g42s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313177760249-s3k0c0f3g20iv90mhkohap5cofv6uoh1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

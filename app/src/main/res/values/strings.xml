@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ShopTwo</string>
+
+    //Texts MainActivity
+    <string name="text_btn_init">Iniciar</string>
+
+    //Texts MainActivity
+    <string name="agregar_libro">Agregar Libro</string>
+    <string name="mapa">Ubicación</string>
+
+    //Texts Login
+    <string name="btnRegisterRegister">Registro</string>
+    <string name="btnLogin">Login</string>
+
+</resources>

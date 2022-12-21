@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "shopimtwo",
+  "private_key_id": "61d08a336756356beff1530173b92da0182aab3a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC4gScGioEO9Rhg\nKmn3QoXVLkvZ3ojatP5q6FMuOZLVQDOH0idNsrBCUJK0IDMb7WzoL0nAaCXi+d5d\nqGAD7vQRlkbskuiHmQz1KHVS0qKg8pV3iT+1TfIExQ025W7t9Vxahmj/h9lz6khp\nRW0uRcxB3x/BUOqSDOo+Z4SBuiVbLf5yopteZpFKAX9njYrsFz03c90w8Q/a/8bV\nk5eChatefCuolVAMwzb6EEdlIeWuWmR0pADUx3XcP348PCn91GAGFd5/oZyr6Xg/\nDcAudGxni6hZ3xv1pLqSa5IJzydbHiCX6LucHCCsiAFXiCzk//Sc3tPDX0KRUinw\ncsJJX8pdAgMBAAECggEABjjy2j1fE2RQNWQQzVI8xb8JN1iSOIAMqYnazk8KRO9k\nnYLIqQ3q9F2XyQPh/WHhP6ZioB7TEkfXiESWsmNDb3loPG/K8FHI1lbOOCQa8H8l\n69Fg6OovTJphsvWDa3qQKgxo659HBeoDlatN/pbDiAAwp7olIxZU6xReK2rd+ihx\nBcqD3KhhFr8Nxrz2gH24DvLxVNgWwoHq29JMNJd9Fk+GDTbnQQtsNabTBzpyM9td\nvQSpx83cwnBg0TDVW/D8maTtB14MiKv1D2fJ4hSeji1tLo9JcEh1TRSUGvGLShWj\neRDnlH/kg5tLt2LZD9ddA3ZqBQSApJ6BnSP0DyMhuQKBgQDiTZldC69atoxwFyYV\nIiAh9RyhWU/YgZ88fA16KQXlnZBaoghjwvi3GtUxMfsLLmW8lHaffdcG/0QmUmXJ\nEgGJk6250rojeC6TGu31OZf4w0YW3ygdUEqfNyY/3o2DSi20OFFCl/26lEXqBzF6\nRo9fRXKyeYA8JAloRx8lGRBZhQKBgQDQt2AX/oqmefWfMQvJXHxqB2pIhVErd0wO\nGc11iI8gnKBfhPpDtmJuX7vN4/0xn06cbCl3LRw1CDnjPeEWJ2dn9u92rH1j3WnK\nmrduT/xCNVfp6Z6zaP2clSrzEy06l/C8NdnwU26xNOrs0HYmZFzaKT718weS6EWh\nlxOZH9dY+QKBgQCORsE7+WO2wXxL4JHlyX2wO71TR6ZmdSAa09dZTT9S3Bvsj2B8\n8BCUdf9BHa46mmIGDMUDgwdUc9pxyW4K2xIyX7FiWbUDJcUKYWznttzv3j1LleNP\ngrJXpUGb+By6RUG0w497Mbmoux21g+48dO4gtLXmtXLE3Nc5QzW2iip4TQKBgFOb\nsa3K9KW9o0wS7KLMHramo8fLR/m+f0QCyBA2FQe+VmwNK+emDwYh6WyP0ORo6ae1\nmGK6OltwIShLqHgkbsLx43lJna08i91yXtqcxfOLxNzaDg3WmAl6o8rdureHGBN9\nCwG/mk74YMdetoWonJ1z+lmx8i3CR+p0R5CGddCZAoGAcHXl0k66AWrOqxi6RphU\n3SVJV2QAmdKGsYUZ1rAzFnWzBS5e/4So5brntojrZoLjaou/q3keNQtcK9bOLWV0\n9qILRIybYGoNwGlzTyfnNqDqyj1BcNXNP8hkQv1oLprFyxldi12GBPjxQBVtg2en\nH12I/Ah/RdZiChlmZy80+8U=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-tc3rn@shopimtwo.iam.gserviceaccount.com",
+  "client_id": "111473185517954932501",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-tc3rn%40shopimtwo.iam.gserviceaccount.com"
+}
